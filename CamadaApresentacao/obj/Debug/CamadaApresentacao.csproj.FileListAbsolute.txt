@@ -1,0 +1,13 @@
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\obj\Debug\CamadaApresentacao.frmCategoria.resources
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb

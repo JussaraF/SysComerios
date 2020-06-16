@@ -1,0 +1,16 @@
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\bin\Debug\SysComercios.exe.config
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\bin\Debug\SysComercios.exe
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\bin\Debug\SysComercios.pdb
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\bin\Debug\CamadaApresentacao.dll
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\bin\Debug\CamadaNegocio.dll
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\bin\Debug\CamadaDados.dll
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\bin\Debug\CamadaNegocio.pdb
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\bin\Debug\CamadaDados.pdb
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\obj\Debug\SysComercios.csprojAssemblyReference.cache
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\obj\Debug\SysComercios.Properties.Resources.resources
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\obj\Debug\SysComercios.csproj.GenerateResource.cache
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\obj\Debug\SysComercios.csproj.CoreCompileInputs.cache
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\obj\Debug\SysComercios.csproj.CopyComplete
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\obj\Debug\SysComercios.exe
+C:\Users\Jussara\Desktop\CURSO JU\PROJETO ESCOLAR\SysComercios\SysComercios\obj\Debug\SysComercios.pdb
